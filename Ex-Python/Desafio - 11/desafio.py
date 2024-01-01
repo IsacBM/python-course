@@ -1,6 +1,6 @@
 # IsacBM - 2K23
-produto = int(input('Digite o preço do produto: '))
+produto = float(input('Digite o preço do produto: '))
 
-desconto = 0.05 * produto
+desconto = produto * 5/100
 
-print('O preço do produto com desconto será de {}'.format(desconto))
+print('O preço do produto com desconto será de R${:.2f}'.format(produto - desconto))
