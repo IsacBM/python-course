@@ -5,7 +5,7 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 
 ---
 
-# Python 3 – Mundo 1 [40 Horas]
+# Python 3 – Mundo 1 | [40 Horas]
 
 #001 - **[Hello World](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2001/desafio-01.py)** 
 <br>
