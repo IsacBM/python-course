@@ -1,6 +1,6 @@
 # IsacBM - 2K23
-dis = int(input('Digite a distância: '))
-if dis <= 200:
+ano = int(input('Digite a distância: '))
+if ano <= 200:
     valor = dis * 0.50
     print('O preço da passagem é {}'.format(valor))
 else:
