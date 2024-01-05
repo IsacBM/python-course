@@ -7,10 +7,77 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 
 # Python 3 – Mundo 1 [40 Horas]
 
-#001 - **[Hello World](https://www.cursoemvideo.com/)** 
+#001 - **[Hello World](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2001/desafio-01.py)** 
 <br>
-#002 - **[Respondendo ao Usuário](https://www.cursoemvideo.com/)**
-
+#002 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#003 - **[Somando dois números](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2004/desafio-03.py)**
+<br>
+#004 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#005 - **[Antecessor e Sucessor](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2005/desafio-04.py)**
+<br>
+#006 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#007 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#008 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#009 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#010 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#011 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#012 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#013 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#014 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#015 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#016 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#017 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#018 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#019 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#020 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#021 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#021 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#022 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#023 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#024 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#025 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#026 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#027 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#028 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#029 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#030 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#031 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#032 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#033 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#034 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+<br>
+#035 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
 ---
 
 # Python 3 – Mundo 2 [40 Horas]
