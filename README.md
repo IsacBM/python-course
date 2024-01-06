@@ -78,7 +78,7 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 #035 - **[Analisando Triângulo v1.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2035/desafio.py)**
 ---
 
-# Python 3 – Mundo 2 [40 Horas]
+# Python 3 – Mundo 2 | [40 Horas]
 
 #036 - **[Aprovando Empréstimo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2036/desafio.py)**
 <br>
@@ -89,7 +89,6 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 #039 - **[Alistamento Militar](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2039/desafio.py)**
 <br>
 #040 - **[Aquele clássico da Média](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2036/desafio.py)**
-
 ---
 
 ## Instrutor do Curso
