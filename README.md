@@ -11,9 +11,9 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 <br>
 #002 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
 <br>
-#003 - **[Somando dois números](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2004/desafio-03.py)**
+#003 - **[Somando dois números](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2003/desafio-03.py)**
 <br>
-#004 - **[Respondendo ao Usuário](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2002/desafio-01.py)**
+#004 - **[Dissecando uma Variável](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2004/desafio-4.py)**
 <br>
 #005 - **[Antecessor e Sucessor](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2005/desafio-04.py)**
 <br>
