@@ -80,6 +80,12 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 
 # Python 3 – Mundo 2 [40 Horas]
 
+#036 - **[Aprovando Empréstimo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2036/desafio.py)**
+#037 - **[Conversor de Bases Numéricas](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2036/desafio.py)**
+#038 - **[Comparando números](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2038/desafio.py)**
+#039 - **[Alistamento Militar](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2039/desafio.py)**
+#040 - **[Aquele clássico da Média](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2036/desafio.py)**
+
 ---
 
 ## Instrutor do Curso
