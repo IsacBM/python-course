@@ -1,16 +1,16 @@
 # IsacBM - 2K23
-peso = float(input('Digite seu Peso: '))
-alt = float(input('Digite sua Altura: '))
+peso = float(input('Digite seu Peso (Kg): '))
+alt = float(input('Digite sua Altura (m): '))
 
 imc = peso / (alt * alt)
 
 if imc < 18.5:
-    print('Abaixo do Peso')
+    print(f'Seu IMC é de {round(imc)}! Você está Abaixo do Peso')
 elif imc >= 18.5 and imc <= 25:
-    print('Peso Ideal')
+    print(f'Seu IMC é de {round(imc, 1)}! Você está com o Peso Ideal')
 elif imc > 25 and imc <= 30:
-    print('Sobrepeso')
+    print(f'Seu IMC é de {round(imc)}! Você está com Sobrepeso')
 elif imc > 30 and imc <=40:
-    print('Obesidade')
+    print(f'Seu IMC é de {round(imc)}! Você está com Obesidade')
 else:
-    print('Obesidade Mórbida')
+    print(f'Seu IMC é de {round(imc)}! Você está com Obesidade Mórbida')
