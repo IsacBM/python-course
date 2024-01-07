@@ -99,6 +99,28 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 #044 - **[Gerenciador de Pagamentos](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2044/desafio.py)**
 <br>
 #045 - **[GAME: Pedra Papel e Tesoura](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2045/desafio.py)**
+<br>
+#046 - **[Contagem regressiva]()**
+<br>
+#047 - **[Contagem de pares]()**
+<br>
+#048 - **[Soma ímpares múltiplos de três]()**
+<br>
+#049 - **[Tabuada v.2.0]()**
+<br>
+#050 - **[Soma dos pares]()**
+<br>
+#051 - **[Progressão Aritmética]()**
+<br>
+#052 - **[Números primos]()**
+<br>
+#053 - **[Detector de Palíndromo]()**
+<br>
+#054 - **[Grupo da Maioridade]()**
+<br>
+#055 - **[Maior e menor da sequência]()**
+<br>
+#056 - **[Analisador completo]()**
 ---
 
 ## Instrutor do Curso
