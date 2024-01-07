@@ -88,7 +88,17 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 <br>
 #039 - **[Alistamento Militar](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2039/desafio.py)**
 <br>
-#040 - **[Aquele clássico da Média](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2036/desafio.py)**
+#040 - **[Aquele clássico da Média](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2040/desafio.py)**
+<br>
+#041 - **[Classificando Atletas](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2041/desafio.py)**
+<br>
+#042 - **[Analisando Triângulos v2.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2042/desafio.py)**
+<br>
+#043 - **[Índice de Massa Corporal](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2043/desafio.py)**
+<br>
+#044 - **[Gerenciador de Pagamentos](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2044/desafio.py)**
+<br>
+#045 - **[GAME: Pedra Papel e Tesoura](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2045/desafio.py)**
 ---
 
 ## Instrutor do Curso
