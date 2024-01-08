@@ -100,27 +100,27 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 <br>
 #045 - **[GAME: Pedra Papel e Tesoura](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2045/desafio.py)**
 <br>
-#046 - **[Contagem regressiva]()**
+#046 - **[Contagem regressiva](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2046/desafio.py)**
 <br>
-#047 - **[Contagem de pares]()**
+#047 - **[Contagem de pares](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2047/desafio.py)**
 <br>
-#048 - **[Soma ímpares múltiplos de três]()**
+#048 - **[Soma ímpares múltiplos de três](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2048/desafio.py)**
 <br>
-#049 - **[Tabuada v.2.0]()**
+#049 - **[Tabuada v.2.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2049/desafio.py)**
 <br>
-#050 - **[Soma dos pares]()**
+#050 - **[Soma dos pares](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2050/desafio.py)**
 <br>
-#051 - **[Progressão Aritmética]()**
+#051 - **[Progressão Aritmética](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2051/desafio.py)**
 <br>
-#052 - **[Números primos]()**
+#052 - **[Números primos](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2052/desafio.py)**
 <br>
-#053 - **[Detector de Palíndromo]()**
+#053 - **[Detector de Palíndromo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2053/desafio.py)**
 <br>
-#054 - **[Grupo da Maioridade]()**
+#054 - **[Grupo da Maioridade](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2054/desafio.py)**
 <br>
-#055 - **[Maior e menor da sequência]()**
+#055 - **[Maior e menor da sequência](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2055/desafio.py)**
 <br>
-#056 - **[Analisador completo]()**
+#056 - **[Analisador completo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2056/desafio.py)**
 ---
 
 ## Instrutor do Curso
