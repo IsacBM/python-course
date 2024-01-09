@@ -78,6 +78,8 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 #035 - **[Analisando Triângulo v1.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2035/desafio.py)**
 ---
 
+---
+
 # Python 3 – Mundo 2 | [40 Horas]
 
 #036 - **[Aprovando Empréstimo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2036/desafio.py)**
@@ -121,6 +123,45 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 #055 - **[Maior e menor da sequência](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2055/desafio.py)**
 <br>
 #056 - **[Analisador completo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2056/desafio.py)**
+<br>
+#057 - **[Validação de Dados]()**
+<br>
+#058 - **[Jogo da Adivinhação v2.0]()**
+<br>
+#059 - **[Criando um Menu de Opções]()**
+<br>
+#060 - **[Cálculo do Fatorial]()**
+<br>
+#061 - **[Progressão Aritmética v2.0]()**
+<br>
+#062 - **[Super Progressão Aritmética v3.0]()**
+<br>
+#063 - **[Sequência de Fibonacci v1.0]()**
+<br>
+#064 - **[Tratando vários valores v1.0]()**
+<br>
+#065 - **[Maior e Menor valores]()**
+<br>
+#066 - **[Vários números com flag]()**
+<br>
+#067 - **[Tabuada v3.0]()**
+<br>
+#068 - **[Jogo do Par ou Ímpar]()**
+<br>
+#069 - **[Análise de dados do grupo]()**
+<br>
+#070 - **[Estatísticas em produtos]()**
+<br>
+#071 - **[Simulador de Caixa Eletrônico]()**
+---
+
+---
+
+# Python 3 – Mundo 3 | [40 Horas]
+
+#072 - **[]()**
+---
+
 ---
 
 ## Instrutor do Curso
