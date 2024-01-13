@@ -1,17 +1,20 @@
 # IsacBM - 2K24
-seq = int(input('Digite a sequência: '))
-i = 0
-print('0', end=(' -> '))
-
-while i <= seq:
-    anti = 0
-    suss = 1
-    
-    soma = anti + suss
-    
-    print(soma, end=(' -> '))
-    
-    anti = suss
-    suss = soma
-    
-    i += 1
+nao = 'r'
+aux = 0
+soma = 0
+media = 0
+maior = 0
+menor = 999999
+while nao != 'N':
+    num = int(input('Digite um valor:'))
+    cont = str(input('Desaja continuar? [S/N]')).upper()
+    aux +=1
+    soma = soma + num
+    if num > maior:
+        maior = num
+    if num < menor:
+        menor = num
+    if cont == 'N':
+        media = soma / aux
+        print(f'A média entre os valor é {round(media, 2)}, o maior valor é {maior} e o menor é {menor}.')
+        break

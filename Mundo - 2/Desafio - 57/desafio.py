@@ -10,4 +10,4 @@ while n != 0:
     else:
         print('Opção incorreta')
 
-print('Obrigado!')
+print('Registrado com sucesso. Obrigado!')
