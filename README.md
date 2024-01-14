@@ -78,6 +78,8 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 #035 - **[Analisando Triângulo v1.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%201/Desafio%20-%2035/desafio.py)**
 ---
 
+<img src="https://i.ibb.co/mCygBGC/Monica-2024-01-14-10-27-27.png">
+
 ---
 
 # Python 3 – Mundo 2 | [40 Horas]
@@ -154,6 +156,7 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 <br>
 #071 - **[Simulador de Caixa Eletrônico]()**
 ---
+<img src="https://i.ibb.co/GvBMxxJ/Monica-2024-01-14-10-27-57.png">
 
 ---
 
