@@ -126,35 +126,35 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 <br>
 #056 - **[Analisador completo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2056/desafio.py)**
 <br>
-#057 - **[Validação de Dados]()**
+#057 - **[Validação de Dados](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2057/desafio.py)**
 <br>
-#058 - **[Jogo da Adivinhação v2.0]()**
+#058 - **[Jogo da Adivinhação v2.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2058/desafio.py)**
 <br>
-#059 - **[Criando um Menu de Opções]()**
+#059 - **[Criando um Menu de Opções](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2059/desafio.py)**
 <br>
-#060 - **[Cálculo do Fatorial]()**
+#060 - **[Cálculo do Fatorial](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2060/desafio.py)**
 <br>
-#061 - **[Progressão Aritmética v2.0]()**
+#061 - **[Progressão Aritmética v2.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2061/desafio.py)**
 <br>
-#062 - **[Super Progressão Aritmética v3.0]()**
+#062 - **[Super Progressão Aritmética v3.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2062/desafio.py)**
 <br>
-#063 - **[Sequência de Fibonacci v1.0]()**
+#063 - **[Sequência de Fibonacci v1.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2063/desafio.py)**
 <br>
-#064 - **[Tratando vários valores v1.0]()**
+#064 - **[Tratando vários valores v1.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2064/desafio.py)**
 <br>
-#065 - **[Maior e Menor valores]()**
+#065 - **[Maior e Menor valores](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2065/desafio.py)**
 <br>
-#066 - **[Vários números com flag]()**
+#066 - **[Vários números com flag](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2066/desafio.py)**
 <br>
-#067 - **[Tabuada v3.0]()**
+#067 - **[Tabuada v3.0](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2067/desafio.py)**
 <br>
-#068 - **[Jogo do Par ou Ímpar]()**
+#068 - **[Jogo do Par ou Ímpar](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2068/desafio.py)**
 <br>
-#069 - **[Análise de dados do grupo]()**
+#069 - **[Análise de dados do grupo](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2069/desafio.py)**
 <br>
-#070 - **[Estatísticas em produtos]()**
+#070 - **[Estatísticas em produtos](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2070/desafio.py)**
 <br>
-#071 - **[Simulador de Caixa Eletrônico]()**
+#071 - **[Simulador de Caixa Eletrônico](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%202/Desafio%20-%2071/desafio.py)**
 ---
 <img src="https://i.ibb.co/GvBMxxJ/Monica-2024-01-14-10-27-57.png">
 
