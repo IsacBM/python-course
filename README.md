@@ -162,7 +162,17 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 
 # Python 3 – Mundo 3 | [40 Horas]
 
-#072 - **[]()**
+#072 - **[Número por Extenso](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%203/Desafio%20-%2072/desafio.py)**
+<br>
+#073 - **[Tuplas com Times de Futebol](https://github.com/IsacBM/python-course/blob/main/Mundo%20-%203/Desafio%20-%2073/desafio.py)**
+<br>
+#074 - **[Maior e menor valores em Tupla]()**
+<br>
+#075 - **[Análise de dados em uma Tupla]()**
+<br>
+#076 - **[Lista de Preços com Tupla]()**
+<br>
+#077 - **[Contando vogais em Tupla]()**
 ---
 
 ---
