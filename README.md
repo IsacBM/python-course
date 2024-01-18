@@ -173,6 +173,8 @@ O **`Curso de Python 3`**, realizado pelo **[Curso em vídeo](https://www.cursoe
 #076 - **[Lista de Preços com Tupla]()**
 <br>
 #077 - **[Contando vogais em Tupla]()**
+<br>
+#078 - **[]()**
 ---
 
 ---
